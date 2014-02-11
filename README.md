@@ -6,6 +6,7 @@ Example of deployed to Vagrant Vm using capistrano3
 Add your ```etc/hotsts``` file
 
 ```
+# example vi /etc/hosts
 192.168.33.10 wordpress.dev
 192.168.33.10 staging-wordpress.dev
 ```
